@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">0403Aula</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="bjoao">Seja bem-vindo, João!</string>
+    <string name="livro">Spring in Action, Fifth Edition</string>
+    <string name="livro2">High Performace MYSQL </string>
+
+</resources>
